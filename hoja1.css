@@ -1,0 +1,22 @@
+/* hoja1.css */
+
+body {
+	font-size: 12px;
+}
+
+ul {
+	list-style: none;
+}
+
+ul.menu li {
+	display: inline;
+	background-color: antiquewhite;
+	margin-right: 8px;
+	pading: 5px;
+	color: black;
+
+}
+
+h2 {
+	font-size: 16px;
+	
